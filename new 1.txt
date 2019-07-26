@@ -1,0 +1,8 @@
+<tr bgcolor="#D3D3D3"><td colspan="3" align="right"> <select class="border" >
+							<option> pk </option>
+							<option>ml</option>
+							<option>ng</option>
+							<option>nbd</option>
+							<option>gfg</option>
+							</select><b id="non-printable"> : الرتبة او الصنف </b> 
+ </td></tr>
